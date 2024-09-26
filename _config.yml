@@ -3,8 +3,7 @@ description: Showcase on the paper "Theorizing with Large Language Models".
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-github:
-  zip_url: /
-  paper_url: https://www.abhishekn.com/s/GABE_Streetlight_Effect_Sep24.pdf
-  code_url: /code.html
-  contact_url: https://www.abhishekn.com/about-lab
+baseurl: /theorizing_with_llms/
+code_url: /theorizing_with_llms/code.html
+paper_url: https://www.abhishekn.com/s/GABE_Streetlight_Effect_Sep24.pdf
+contact_url: https://www.abhishekn.com/about-lab

@@ -22,10 +22,10 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Overview</a>
-        <a href="{{ site.github.paper_url }}" class="btn">Paper</a>
-        <a href="{{ site.github.code_url }}" class="btn">Code</a>
-        <a href="{{ site.github.contact_url }}" class="btn">Contact</a>
+        <a href="{{ site.baseurl }}" class="btn">Overview</a>
+        <a href="{{ site.paper_url }}" class="btn">Paper</a>
+        <a href="{{ site.code_url }}" class="btn">Code</a>
+        <a href="{{ site.contact_url }}" class="btn">Contact</a>
 
       {% endif %}
     </header>
@@ -34,9 +34,6 @@
       {{ content }}
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
       </footer>
     </main>
   </body>
