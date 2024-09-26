@@ -1,5 +1,10 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Theorizing with Large Language Models
+description: Showcase on the paper "Theorizing with Large Language Models".
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: /
+  paper_url: https://www.abhishekn.com/s/GABE_Streetlight_Effect_Sep24.pdf
+  code_url: http://example.com/download.zip
+  contact_url: http://example.com/download.zip
