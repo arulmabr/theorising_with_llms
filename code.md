@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Code
-description: Code for the paper "Theorizing with Large Language Models".
+title: Theorizing with Large Language Models
+description: Expanding Management Theory Through AI-Powered Simulations
 ---
 
 ## Code
