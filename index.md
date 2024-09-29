@@ -12,6 +12,10 @@ This approach is unique because it allows researchers to unpack mechanisms throu
  
  We show how our framework can not only replicate the results from experiments with human subjects at a much lower cost, but can also be used to extend theory by clarifying boundary conditions and uncovering mechanisms. We conclude that LLMs possess tremendous potential to complement existing methods for theorizing in the social sciences.
 
+### Listen to this paper as a podcast:
+ 
+ [AI generated podcast from NotebookLM](https://notebooklm.google.com/notebook/ade43e1a-1487-4d6b-a1f7-7b51011a779e/audio)
+
 ### To Cite this work:
 
 ```markdown
